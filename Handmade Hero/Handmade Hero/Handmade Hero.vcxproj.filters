@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="win32_handmadehero.cpp">
+    <ClCompile Include="win32_handmade.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
